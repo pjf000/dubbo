@@ -1,0 +1,14 @@
+*.class
+*.iml
+Maven*.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.log
+*.log.gz
+
+.idea/*
+
+*/target/*
